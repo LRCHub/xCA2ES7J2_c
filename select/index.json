@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "4Wheels 9Lives",
+  "base_artist": "Ken Yokoyama",
+  "createdAt": "2025-12-15T00:24:50.829801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "4Wheels 9Lives",
+      "artist": "Ken Yokoyama",
+      "has_synced": true,
+      "path": "select/01_4Wheels_9Lives_Ken_Yokoyama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "4Wheels 9Lives",
+      "artist": "Ken Yokoyama",
+      "has_synced": false,
+      "path": "select/pl_01_4Wheels_9Lives_Ken_Yokoyama.txt"
+    }
+  ]
+}
